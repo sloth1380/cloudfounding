@@ -6,6 +6,9 @@
 # testing
 /coverage
 
+# ormconfig.json
+ormconfig.json
+
 # production
 /build
 
